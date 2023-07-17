@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4600806.css",
+    "main.js": "/static/js/main.ba0236e4.js",
+    "static/media/rupee1.png": "/static/media/rupee1.4136e54aaf63723a6977.png",
+    "index.html": "/index.html",
+    "main.c4600806.css.map": "/static/css/main.c4600806.css.map",
+    "main.ba0236e4.js.map": "/static/js/main.ba0236e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4600806.css",
+    "static/js/main.ba0236e4.js"
+  ]
+}
